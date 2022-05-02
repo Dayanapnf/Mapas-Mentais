@@ -5,14 +5,14 @@
 <h1 align="center"> Mapas Mentais</h1>
 Para facilitar o aprendizado em algumas cadeiras/assunto, gosto de organizar o conteúdo de maneira didática. Sendo assim, desenvolvi Mapas Mentais e estarei disponibilizando aqui!
 
-### Mapas Disponíveis 
+### 🧠Mapas Disponíveis✔️  
 
 1. Gestão da TI
     - Fundamentos da TI
 
 
-#### Ferramenta utilizada para a criação dos Mapas Mentais
+###  ✒️ Ferramenta utilizada
+![edraw-mindmaster-horizontal](https://user-images.githubusercontent.com/71513260/166292544-ce81c847-81fe-4140-bd7d-800efdb6aa02.svg)
 
-Ferramenta de mapeamento mental colaborativa e versátil para capturar, organizar e compartilhar ideias visualmente.
 
 ##### 🦅 Bons estudos!
