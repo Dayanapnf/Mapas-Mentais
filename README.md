@@ -9,6 +9,7 @@ Para facilitar o aprendizado em algumas cadeiras/assunto, gosto de organizar o c
 
 1. Gestão da TI
     - Fundamentos da TI
+2. PYTHON
 
 
 ###  ✒️ Ferramenta utilizada
