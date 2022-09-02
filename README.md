@@ -13,7 +13,6 @@ Para facilitar o aprendizado em algumas cadeiras/assunto, gosto de organizar o c
 
 
 ###  ✒️ Ferramenta utilizada
-![edraw-mindmaster-horizontal](https://user-images.githubusercontent.com/71513260/166292544-ce81c847-81fe-4140-bd7d-800efdb6aa02.svg)
-
-
+  - <img src="https://user-images.githubusercontent.com/71513260/166292544-ce81c847-81fe-4140-bd7d-800efdb6aa02.svg" width="400" height="200"/>
+    <img src="https://user-images.githubusercontent.com/71513260/188192702-6d3ae4ef-908f-4f3e-9352-1eceaab34dc8.png" width="400" height="200"/>
 ##### 🦅 Bons estudos!
